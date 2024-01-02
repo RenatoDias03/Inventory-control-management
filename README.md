@@ -8,7 +8,7 @@ Este é um sistema de controle de inventário desenvolvido em PHP para gerenciar
 
 - **Registro de Recolhas:** Registre a retirada de produtos pelo técnico, indicando detalhes como quantidade retirada, data, etc.
 
- **Geração de Relatórios:**  A API permite a gerar relatórios em formatos Excel ou PDF, facilitando a análise e apresentação de dados.
+- **Geração de Relatórios:**  A API permite a gerar relatórios em formatos Excel ou PDF, facilitando a análise e apresentação de dados.
 
 ## Tecnologias Utilizadas
 
