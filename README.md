@@ -12,8 +12,8 @@ Este é um sistema de controle de inventário desenvolvido em PHP para gerenciar
 
 ## Tecnologias Utilizadas
 
-- **Linguagem de Programação:** PHP
-
 - **Banco de Dados:** MySQL
-
+- **Linguagem de Programação:** PHP
+- **Frontend:** JavaScript (com HTML e CSS)
 - **Ferramenta de Banco de Dados:** phpMyAdmin
+
